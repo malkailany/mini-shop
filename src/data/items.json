@@ -1,0 +1,21 @@
+[{
+    "id": 1,
+    "price": 18.99,
+    "item_name": "Toy story 2"
+  }, {
+    "id": 2,
+    "price": 19.99,
+    "item_name": "Good Will Hunting"
+  }, {
+    "id": 3,
+    "price": 18.99,
+    "item_name": "The Shawshank Redemption"
+  }, {
+    "id": 4,
+    "price": 6.99,
+    "item_name": "Se7en"
+  }, {
+    "id": 5,
+    "price": 2.99,
+    "item_name": "Batman Dark Knight"
+  }]
