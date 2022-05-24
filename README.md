@@ -1,15 +1,19 @@
-I have developed a small shop that includes 5 items stored in a JSON file, the user can add the items to their basket and click checkout to fill a form out of their card information and will either be approved of disapproved 
+I have developed a small shop with React app that includes 5 items stored in a JSON file, the user can add the items to their basket and click checkout to fill a form out of their card information and will either be approved of disapproved 
 
 in the card number 
 For approved: use 4242424242424242 
 for disapproved: use 4000000000000002
 
-any other values will also disaprove but the idea of usability of different error codes is there.
+Any other values will also disaprove but the idea of usability of different error codes is there.
 
 I also added some basic test
 - test if items render correctly from the JSON file
 - Modal renders when the 'Open' flag is set to true
 - value of the items adds up correctly and the value is shown
+
+Additional information: 
+I have used react-bootstrap for layout and modal 
+
 
 
 
